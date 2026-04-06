@@ -4,6 +4,7 @@ import os
 import io
 import os.path
 from datetime import datetime
+import json
 
 # --- LIBRERÍAS DE GOOGLE (OAuth 2.0) ---
 from google.auth.transport.requests import Request
@@ -19,22 +20,18 @@ CARPETA_SEEDS = "seeds/"
 ARCHIVO_REPORTES = "reportes_oficiales.csv"
 PASSWORD_OWNER = "1234"
 
-# --- 2. CONEXIÓN OAUTH 2.0 ---
+# --- 2. CONEXIÓN OAUTH 2.0 (MODO NUBE CON SECRETS) ---
 def conectar_drive():
-    creds = None
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', ["https://www.googleapis.com/auth/drive.file"])
+    # 1. Leemos el texto secreto de Streamlit y lo convertimos a formato JSON
+    token_info = json.loads(st.secrets["google_token"])
     
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                RUTA_CLIENT_SECRET, ["https://www.googleapis.com/auth/drive.file"])
-            creds = flow.run_local_server(port=0)
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
-
+    # 2. Creamos los permisos usando esa información
+    creds = Credentials.from_authorized_user_info(token_info, ["https://www.googleapis.com/auth/drive.file"])
+    
+    # 3. Si el token expiró (dura 7 días), Google lo renueva automáticamente
+    if creds and creds.expired and creds.refresh_token:
+        creds.refresh(Request())
+        
     return build('drive', 'v3', credentials=creds)
 
 def subir_a_drive(file_buffer, file_name):
