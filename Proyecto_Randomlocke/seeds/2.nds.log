@@ -1,0 +1,561 @@
+﻿Randomizer Version: 4.6.1
+Random Seed: 29002602117589
+Settings String: 322AAgEAgSDAYYBiQEEAAEeRAABFAAAFABABAABAAAAAAAAAAAAMgQyAQAICTIGBQAyAAIAFFBva2Vtb24gUGxhdGludW0gKFMp3lSAj+PDOIo=
+
+--Pokemon Base Stats & Types--
+NUM|NAME      |TYPE             |  HP| ATK| DEF|SATK|SDEF| SPD|ABILITY1    |ABILITY2    |ITEM
+  1|BULBASAUR    |GRASS/POISON     |  45|  49|  49|  65|  65|  45|Filtro      |Electromotor|
+  2|IVYSAUR      |GRASS/POISON     |  60|  62|  63|  80|  80|  60|Despiste    |Dicha       |
+  3|VENUSAUR     |GRASS/POISON     |  80|  82|  83| 100| 100|  80|Antídoto    |Ignífugo    |
+  4|CHARMANDER   |FIRE             |  39|  52|  43|  60|  50|  65|Mal Sueño   |Cuerpo Puro |
+  5|CHARMELEON   |FIRE             |  58|  64|  58|  80|  65|  80|Mar Llamas  | -          |
+  6|CHARIZARD    |FIRE/FLYING      |  78|  84|  78| 109|  85| 100|Simple      |Ojocompuesto|
+  7|SQUIRTLE     |WATER            |  44|  48|  65|  50|  64|  43|Encadenado  |Antídoto    |
+  8|WARTORTLE    |WATER            |  59|  63|  80|  65|  80|  58|Ventosas    |Hidratación |
+  9|BLASTOISE    |WATER            |  79|  83| 100|  85| 105|  78|Ventosas    |Levitación  |
+ 10|CATERPIE     |BUG              |  45|  30|  35|  20|  20|  45|Rivalidad   |Espír. Vital|
+ 11|METAPOD      |BUG              |  50|  20|  55|  25|  25|  30|Sincronía   |Colector    |
+ 12|BUTTERFREE   |BUG/FLYING       |  60|  45|  50|  80|  80|  70|Sequía      |Gélido      |Polvo Plata (rare)
+ 13|WEEDLE       |BUG/POISON       |  40|  35|  30|  20|  20|  50|Adaptable   |Levitación  |
+ 14|KAKUNA       |BUG/POISON       |  45|  25|  50|  25|  25|  35|Velo Agua   | -          |
+ 15|BEEDRILL     |BUG/POISON       |  65|  80|  40|  45|  80|  75|Cromolente  | -          |Flecha Ven. (rare)
+ 16|PIDGEY       |NORMAL/FLYING    |  40|  45|  40|  35|  35|  56|Rezagado    | -          |
+ 17|PIDGEOTTO    |NORMAL/FLYING    |  63|  60|  55|  50|  50|  71|Francotirad.|Colector    |
+ 18|PIDGEOT      |NORMAL/FLYING    |  83|  80|  75|  70|  70|  91|Absor. Agua | -          |
+ 19|RATTATA      |NORMAL           |  30|  56|  35|  25|  35|  72|Efec. Espora|Rompemoldes |Baya Chilan (rare)
+ 20|RATICATE     |NORMAL           |  55|  81|  60|  50|  70|  97|Cromolente  | -          |Baya Chilan (rare)
+ 21|SPEAROW      |NORMAL/FLYING    |  40|  60|  30|  31|  31|  70|Mal Sueño   |Cambio Color|
+ 22|FEAROW       |NORMAL/FLYING    |  65|  90|  65|  61|  61| 100|Más         |Mar Llamas  |Pico Afilado (rare)
+ 23|EKANS        |POISON           |  35|  60|  44|  40|  54|  55|Cabeza Roca | -          |
+ 24|ARBOK        |POISON           |  60|  85|  69|  65|  79|  80|Absor. Agua | -          |
+ 25|PIKACHU      |ELECTRIC         |  35|  55|  30|  50|  40|  90|Cuerpo Puro | -          |Baya Aranja (common), Bolaluminosa (rare)
+ 26|RAICHU       |ELECTRIC         |  60|  90|  55|  90|  80| 100|Impulso     | -          |Baya Aranja (rare)
+ 27|SANDSHREW    |GROUND           |  50|  75|  85|  20|  30|  40|Ignorante   |Escama Esp. |Garra Rápida (rare)
+ 28|SANDSLASH    |GROUND           |  75| 100| 110|  45|  55|  65|Muro Mágico |Inmunidad   |Garra Rápida (rare)
+ 29|NIDORAN♀     |POISON           |  55|  47|  52|  40|  40|  41|Entusiasmo  |Hidratación |
+ 30|NIDORINA     |POISON           |  70|  62|  67|  55|  55|  56|Normalidad  |Inmunidad   |
+ 31|NIDOQUEEN    |POISON/GROUND    |  90|  82|  87|  75|  85|  76|Cuerpo Llama| -          |
+ 32|NIDORAN♂     |POISON           |  46|  57|  40|  40|  40|  50|Absor. Elec.|Caparazón   |
+ 33|NIDORINO     |POISON           |  61|  72|  57|  55|  55|  65|Ignífugo    | -          |
+ 34|NIDOKING     |POISON/GROUND    |  81|  92|  77|  85|  75|  85|Ausente     |Enjambre    |
+ 35|CLEFAIRY     |NORMAL           |  70|  45|  48|  60|  65|  35|Recogida    |Sequía      |Baya Zanama (common), Piedra Lunar (rare)
+ 36|CLEFABLE     |NORMAL           |  95|  70|  73|  85|  90|  60|Dicha       | -          |Baya Zanama (common), Piedra Lunar (rare)
+ 37|VULPIX       |FIRE             |  38|  41|  40|  50|  65|  65|Nado Rápido |Encadenado  |Baya Safre (100%)
+ 38|NINETALES    |FIRE             |  73|  76|  75|  81| 100| 100|Rivalidad   |Absor. Elec.|Baya Safre (100%)
+ 39|JIGGLYPUFF   |NORMAL           | 115|  45|  20|  45|  25|  20|Corte Fuerte| -          |
+ 40|WIGGLYTUFF   |NORMAL           | 140|  70|  45|  75|  50|  45|Ritmo Propio|Imán        |
+ 41|ZUBAT        |POISON/FLYING    |  40|  45|  35|  30|  40|  55|Trampa Arena|Espesura    |
+ 42|GOLBAT       |POISON/FLYING    |  75|  80|  70|  65|  75|  90|Presión     |Flexibilidad|
+ 43|ODDISH       |GRASS/POISON     |  45|  50|  55|  75|  65|  30|Despiste    | -          |
+ 44|GLOOM        |GRASS/POISON     |  60|  65|  70|  85|  75|  40|Ojocompuesto|Sequía      |
+ 45|VILEPLUME    |GRASS/POISON     |  75|  80|  85| 100|  90|  50|Nado Rápido |Enjambre    |
+ 46|PARAS        |BUG/GRASS        |  35|  70|  55|  45|  55|  25|Ritmo Propio|Clorofila   |Mini Seta (common), Seta Grande (rare)
+ 47|PARASECT     |BUG/GRASS        |  60|  95|  80|  60|  80|  30|Imán        |Espesura    |Mini Seta (common), Seta Grande (rare)
+ 48|VENONAT      |BUG/POISON       |  60|  55|  50|  40|  55|  45|Efec. Espora|Agallas     |
+ 49|VENOMOTH     |BUG/POISON       |  70|  65|  60|  90|  75|  90|Robustez    | -          |Muda Concha (rare)
+ 50|DIGLETT      |GROUND           |  10|  55|  25|  35|  45|  95|Ventosas    |Despiste    |Arena Fina (rare)
+ 51|DUGTRIO      |GROUND           |  35|  80|  50|  50|  70| 120|Impulso     | -          |Arena Fina (rare)
+ 52|MEOWTH       |NORMAL           |  40|  45|  35|  40|  40|  90|Sombratrampa| -          |Garra Rápida (rare)
+ 53|PERSIAN      |NORMAL           |  65|  70|  60|  65|  65| 115|Polvo Escudo| -          |Garra Rápida (rare)
+ 54|PSYDUCK      |WATER            |  50|  52|  48|  65|  50|  55|Mudar       |Cura Lluvia |
+ 55|GOLDUCK      |WATER            |  80|  82|  78|  95|  80|  85|Presión     | -          |
+ 56|MANKEY       |FIGHTING         |  40|  80|  35|  35|  45|  70|Viscosidad  |Menos       |Baya Payapa (rare)
+ 57|PRIMEAPE     |FIGHTING         |  65| 105|  60|  60|  70|  95|Experto     |Viscosidad  |Baya Payapa (rare)
+ 58|GROWLITHE    |FIRE             |  55|  70|  45|  70|  50|  60|Insonorizar |Mal Sueño   |Baya Safre (100%)
+ 59|ARCANINE     |FIRE             |  90| 110|  80| 100|  80|  95|Velo Agua   | -          |Baya Safre (100%)
+ 60|POLIWAG      |WATER            |  40|  50|  40|  40|  40|  90|Liviano     | -          |
+ 61|POLIWHIRL    |WATER            |  65|  65|  65|  50|  50|  90|Impulso     |Vista Lince |Roca del Rey (rare)
+ 62|POLIWRATH    |WATER/FIGHTING   |  90|  85|  95|  70|  90|  70|Sombratrampa|Resquicio   |Roca del Rey (rare)
+ 63|ABRA         |PSYCHIC          |  25|  20|  15| 105|  55|  90|Tumbos      |Irascible   |Cuchara Tor (rare)
+ 64|KADABRA      |PSYCHIC          |  40|  35|  30| 120|  70| 105|Presión     | -          |Cuchara Tor (rare)
+ 65|ALAKAZAM     |PSYCHIC          |  55|  50|  45| 135|  85| 120|Absor. Agua |Llovizna    |Cuchara Tor (rare)
+ 66|MACHOP       |FIGHTING         |  70|  80|  50|  35|  35|  35|Francotirad.|Recogemiel  |
+ 67|MACHOKE      |FIGHTING         |  80| 100|  70|  50|  60|  45|Absor. Elec.| -          |
+ 68|MACHAMP      |FIGHTING         |  90| 130|  80|  65|  85|  55|Mal Sueño   | -          |
+ 69|BELLSPROUT   |GRASS/POISON     |  50|  75|  35|  70|  30|  40|Potencia    |Menos       |
+ 70|WEEPINBELL   |GRASS/POISON     |  65|  90|  50|  85|  45|  55|Menos       |Sincronía   |
+ 71|VICTREEBEL   |GRASS/POISON     |  80| 105|  65| 100|  60|  70|Presión     | -          |
+ 72|TENTACOOL    |WATER/POISON     |  40|  40|  35|  50| 100|  70|Trampa Arena| -          |Flecha Ven. (rare)
+ 73|TENTACRUEL   |WATER/POISON     |  80|  70|  65|  80| 120| 100|Imán        | -          |Flecha Ven. (rare)
+ 74|GEODUDE      |ROCK/GROUND      |  40|  80| 100|  30|  30|  20|Espesura    |Absor. Agua |Piedraeterna (rare)
+ 75|GRAVELER     |ROCK/GROUND      |  55|  95| 115|  45|  45|  35|Muro Mágico | -          |Piedraeterna (rare)
+ 76|GOLEM        |ROCK/GROUND      |  80| 110| 130|  55|  65|  45|Gula        |Anticipación|Piedraeterna (rare)
+ 77|PONYTA       |FIRE             |  50|  85|  55|  65|  65|  90|Escudo Magma| -          |Baya Acardo (rare)
+ 78|RAPIDASH     |FIRE             |  65| 100|  70|  80|  80| 105|Francotirad.|Rompemoldes |Baya Acardo (rare)
+ 79|SLOWPOKE     |WATER/PSYCHIC    |  90|  65|  65|  40|  40|  15|Foco Interno|Espír. Vital|Cola Plúmbea (rare)
+ 80|SLOWBRO      |WATER/PSYCHIC    |  95|  75| 110| 100|  80|  30|Afortunado  | -          |Roca del Rey (rare)
+ 81|MAGNEMITE    |ELECTRIC/STEEL   |  25|  35|  70|  95|  55|  45|Despiste    | -          |Rev.metálico (rare)
+ 82|MAGNETON     |ELECTRIC/STEEL   |  50|  60|  95| 120|  70|  70|Vista Lince |Elec. Estát.|Rev.metálico (rare)
+ 83|FARFETCH’D   |NORMAL/FLYING    |  52|  65|  55|  58|  62|  60|Dicha       | -          |Palo (rare)
+ 84|DODUO        |NORMAL/FLYING    |  35|  85|  45|  35|  35|  75|Antídoto    | -          |Pico Afilado (rare)
+ 85|DODRIO       |NORMAL/FLYING    |  60| 110|  70|  60|  60| 100|Velo Arena  | -          |Pico Afilado (rare)
+ 86|SEEL         |WATER            |  65|  45|  55|  45|  70|  45|Agallas     |Escudo Magma|
+ 87|DEWGONG      |WATER/ICE        |  90|  70|  80|  70|  95|  70|Sequía      |Fuga        |
+ 88|GRIMER       |POISON           |  80|  80|  50|  40|  50|  25|Absor. Fuego|Electromotor|Pepita (rare)
+ 89|MUK          |POISON           | 105| 105|  75|  65| 100|  50|Recogida    |Anticipación|Pepita (rare)
+ 90|SHELLDER     |WATER            |  30|  65| 100|  45|  25|  40|Chorro Arena| -          |Perla (common), Perla Grande (rare)
+ 91|CLOYSTER     |WATER/ICE        |  50|  95| 180|  85|  45|  70|Ventosas    |Cromolente  |Perla (common), Perla Grande (rare)
+ 92|GASTLY       |GHOST/POISON     |  30|  35|  30| 100|  35|  80|Manto Níveo | -          |
+ 93|HAUNTER      |GHOST/POISON     |  45|  50|  45| 115|  55|  95|Torrente    |Robustez    |
+ 94|GENGAR       |GHOST/POISON     |  60|  65|  60| 130|  75| 110|Descarga    |Liviano     |
+ 95|ONIX         |ROCK/GROUND      |  35|  45| 160|  30|  45|  70|Adaptable   |Cacheo      |
+ 96|DROWZEE      |PSYCHIC          |  60|  48|  45|  43|  90|  42|Ritmo Propio| -          |
+ 97|HYPNO        |PSYCHIC          |  85|  73|  70|  73| 115|  67|Antídoto    |Pies Rápidos|
+ 98|KRABBY       |WATER            |  30| 105|  90|  25|  25|  50|Lodo Líquido| -          |
+ 99|KINGLER      |WATER            |  55| 130| 115|  50|  50|  75|Foco Interno|Trampa Arena|
+100|VOLTORB      |ELECTRIC         |  40|  30|  50|  55|  55| 100|Potencia    | -          |
+101|ELECTRODE    |ELECTRIC         |  60|  50|  70|  80|  80| 140|Liviano     |Nado Rápido |
+102|EXEGGCUTE    |GRASS/PSYCHIC    |  60|  40|  80|  60|  45|  40|Ignífugo    |Sincronía   |
+103|EXEGGUTOR    |GRASS/PSYCHIC    |  95|  95|  85| 125|  65|  55|Escama Esp. | -          |
+104|CUBONE       |GROUND           |  50|  50|  95|  40|  50|  35|Escudo Magma| -          |Hueso Grueso (rare)
+105|MAROWAK      |GROUND           |  60|  80| 110|  50|  80|  45|Sebo        |Aclimatación|Hueso Grueso (rare)
+106|HITMONLEE    |FIGHTING         |  50| 120|  53|  35| 110|  87|Pies Rápidos|Absor. Fuego|
+107|HITMONCHAN   |FIGHTING         |  50| 105|  79|  35| 110|  76|Trampa Arena|Encadenado  |
+108|LICKITUNG    |NORMAL           |  90|  55|  75|  60|  75|  30|Antídoto    | -          |Cola Plúmbea (rare)
+109|KOFFING      |POISON           |  40|  65|  95|  60|  45|  35|Velo Arena  | -          |Bola Humo (rare)
+110|WEEZING      |POISON           |  65|  90| 120|  85|  70|  60|Francotirad.| -          |Bola Humo (rare)
+111|RHYHORN      |GROUND/ROCK      |  80|  85|  95|  30|  30|  25|Sequía      |Audaz       |
+112|RHYDON       |GROUND/ROCK      | 105| 130| 120|  45|  45|  40|Gula        |Absor. Agua |
+113|CHANSEY      |NORMAL           | 250|   5|   5|  35| 105|  50|Ignorante   | -          |Piedra Oval (common), Huevo Suerte (rare)
+114|TANGELA      |GRASS            |  65|  55| 115| 100|  40|  60|Bucle Aire  |Absor. Agua |
+115|KANGASKHAN   |NORMAL           | 105|  95|  80|  40|  80|  90|Velo Agua   |Despiste    |
+116|HORSEA       |WATER            |  30|  40|  70|  70|  25|  60|Mal Sueño   |Ventosas    |Escamadragón (rare)
+117|SEADRA       |WATER            |  55|  65|  95|  95|  45|  85|Ausente     | -          |Escamadragón (rare)
+118|GOLDEEN      |WATER            |  45|  67|  60|  35|  50|  63|Ausente     | -          |
+119|SEAKING      |WATER            |  80|  92|  65|  65|  80|  68|Cuerpo Puro | -          |
+120|STARYU       |WATER            |  30|  45|  55|  70|  55|  85|Inicio Lento|Foco Interno|Polvoestelar (common), Tr. Estrella (rare)
+121|STARMIE      |WATER/PSYCHIC    |  60|  75|  85| 100|  85| 115|Gélido      |Rastro      |Polvoestelar (common), Tr. Estrella (rare)
+122|MR. MIME     |PSYCHIC          |  40|  45|  65| 100| 120|  90|Entusiasmo  | -          |Baya Zanama (rare)
+123|SCYTHER      |BUG/FLYING       |  70| 110|  80|  55|  80| 105|Manto Níveo | -          |
+124|JYNX         |ICE/PSYCHIC      |  65|  50|  35| 115|  95|  95|Piel Tosca  |Resquicio   |Baya Perasi (100%)
+125|ELECTABUZZ   |ELECTRIC         |  65|  83|  57|  95|  85| 105|Llovizna    | -          |Electrizador (rare)
+126|MAGMAR       |FIRE             |  65|  95|  57| 100|  85|  93|Resquicio   |Llovizna    |Magmatizador (rare)
+127|PINSIR       |BUG              |  65| 125| 100|  55|  70|  85|Madrugar    |Piel Tosca  |
+128|TAUROS       |NORMAL           |  75| 100|  95|  40|  70| 110|Irascible   |Ausente     |
+129|MAGIKARP     |WATER            |  20|  10|  55|  15|  20|  80|Antídoto    | -          |
+130|GYARADOS     |WATER/FLYING     |  95| 125|  79|  60| 100|  81|Hidratación |Iluminación |
+131|LAPRAS       |WATER/ICE        | 130|  85|  80|  85|  95|  60|Defensa Hoja|Manto Níveo |
+132|DITTO        |NORMAL           |  48|  48|  48|  48|  48|  48|Torrente    |Menos       |Polvo Veloz (common), Pol.metálico (rare)
+133|EEVEE        |NORMAL           |  55|  55|  50|  45|  65|  55|Armad. Bat. |Rastro      |
+134|VAPOREON     |WATER            | 130|  65|  60| 110|  95|  65|Alerta      | -          |
+135|JOLTEON      |ELECTRIC         |  65|  65|  60| 110|  95| 130|Afortunado  | -          |
+136|FLAREON      |FIRE             |  65| 130|  60|  95| 110|  65|Intrépido   |Encadenado  |
+137|PORYGON      |NORMAL           |  65|  60|  70|  85|  75|  40|Anticipación|Armad. Bat. |
+138|OMANYTE      |ROCK/WATER       |  35|  40| 100|  90|  55|  35|Caparazón   | -          |
+139|OMASTAR      |ROCK/WATER       |  70|  60| 125| 115|  70|  55|Robustez    |Insomnio    |
+140|KABUTO       |ROCK/WATER       |  30|  80|  90|  55|  45|  55|Audaz       | -          |
+141|KABUTOPS     |ROCK/WATER       |  60| 115| 105|  65|  70|  80|Imán        |Intrépido   |
+142|AERODACTYL   |ROCK/FLYING      |  80| 105|  65|  60|  75| 130|Gula        | -          |
+143|SNORLAX      |NORMAL           | 160| 110|  65|  65| 110|  30|Sincronía   |Polvo Escudo|Restos (100%)
+144|ARTICUNO     |ICE/FLYING       |  90|  85| 100|  95| 125|  85|Pararrayos  |Tumbos      |
+145|ZAPDOS       |ELECTRIC/FLYING  |  90|  90|  85| 125|  90| 100|Ignífugo    |Menos       |
+146|MOLTRES      |FIRE/FLYING      |  90| 100|  90| 125|  85|  90|Más         | -          |
+147|DRATINI      |DRAGON           |  41|  64|  45|  50|  50|  50|Cuerpo Llama|Roca Sólida |Escamadragón (rare)
+148|DRAGONAIR    |DRAGON           |  61|  84|  65|  70|  70|  70|Clorofila   |Intrépido   |Escamadragón (rare)
+149|DRAGONITE    |DRAGON/FLYING    |  91| 134|  95| 100| 100|  80|Defensa Hoja|Elec. Estát.|Escamadragón (rare)
+150|MEWTWO       |PSYCHIC          | 106| 110|  90| 154|  90| 130|Armad. Bat. |Hidratación |
+151|MEW          |PSYCHIC          | 100| 100| 100| 100| 100| 100|Alerta      |Cura Lluvia |Baya Ziuela (100%)
+152|CHIKORITA    |GRASS            |  45|  49|  65|  49|  65|  45|Pies Rápidos| -          |
+153|BAYLEEF      |GRASS            |  60|  62|  80|  63|  80|  60|Ritmo Propio| -          |
+154|MEGANIUM     |GRASS            |  80|  82| 100|  83| 100|  80|Impasible   | -          |
+155|CYNDAQUIL    |FIRE             |  39|  52|  43|  60|  50|  65|Gula        | -          |
+156|QUILAVA      |FIRE             |  58|  64|  58|  80|  65|  80|Lodo Líquido| -          |
+157|TYPHLOSION   |FIRE             |  78|  84|  78| 109|  85| 100|Elec. Estát.|Electromotor|
+158|TOTODILE     |WATER            |  50|  65|  64|  44|  48|  43|Cura Natural| -          |
+159|CROCONAW     |WATER            |  65|  80|  80|  59|  63|  58|Antídoto    | -          |
+160|FERALIGATR   |WATER            |  85| 105| 100|  79|  83|  78|Resquicio   | -          |
+161|SENTRET      |NORMAL           |  35|  46|  34|  35|  45|  20|Ventosas    | -          |Baya Aranja (rare)
+162|FURRET       |NORMAL           |  85|  76|  64|  45|  55|  90|Cabeza Roca | -          |Baya Aranja (common), Baya Zidra (rare)
+163|HOOTHOOT     |NORMAL/FLYING    |  60|  30|  30|  36|  56|  50|Dicha       | -          |
+164|NOCTOWL      |NORMAL/FLYING    | 100|  50|  50|  76|  96|  70|Sebo        | -          |
+165|LEDYBA       |BUG/FLYING       |  40|  20|  30|  40|  80|  55|Velo Agua   | -          |
+166|LEDIAN       |BUG/FLYING       |  55|  35|  50|  55| 110|  85|Ojocompuesto|Mudar       |
+167|SPINARAK     |BUG/POISON       |  40|  60|  40|  40|  40|  30|Ritmo Propio| -          |
+168|ARIADOS      |BUG/POISON       |  70|  90|  70|  60|  60|  40|Tumbos      |Alerta      |
+169|CROBAT       |POISON/FLYING    |  85|  90|  80|  70|  80| 130|Roca Sólida |Ignorante   |
+170|CHINCHOU     |WATER/ELECTRIC   |  75|  38|  38|  56|  56|  67|Cacheo      | -          |Escama Mar. (rare)
+171|LANTURN      |WATER/ELECTRIC   | 125|  58|  58|  76|  76|  67|Imán        | -          |Escama Mar. (rare)
+172|PICHU        |ELECTRIC         |  20|  40|  15|  35|  35|  60|Mar Llamas  | -          |Baya Aranja (rare)
+173|CLEFFA       |NORMAL           |  50|  25|  28|  45|  55|  15|Sincronía   |Polvo Escudo|Baya Zanama (common), Piedra Lunar (rare)
+174|IGGLYBUFF    |NORMAL           |  90|  30|  15|  40|  20|  15|Caparazón   | -          |
+175|TOGEPI       |NORMAL           |  35|  20|  65|  40|  65|  20|Más         | -          |
+176|TOGETIC      |NORMAL/FLYING    |  55|  40|  85|  80| 105|  40|Enjambre    |Escama Esp. |
+177|NATU         |PSYCHIC/FLYING   |  40|  50|  45|  70|  45|  70|Más         | -          |
+178|XATU         |PSYCHIC/FLYING   |  65|  75|  70|  95|  70|  95|Adaptable   | -          |
+179|MAREEP       |ELECTRIC         |  55|  40|  40|  65|  45|  35|Indefenso   | -          |
+180|FLAAFFY      |ELECTRIC         |  70|  55|  55|  80|  60|  45|Inmunidad   | -          |
+181|AMPHAROS     |ELECTRIC         |  90|  75|  75| 115|  90|  55|Torrente    |Normalidad  |
+182|BELLOSSOM    |GRASS            |  75|  80|  85|  90| 100|  50|Colector    | -          |
+183|MARILL       |WATER            |  70|  20|  50|  20|  50|  40|Manto Níveo | -          |
+184|AZUMARILL    |WATER            | 100|  50|  80|  50|  80|  50|Menos       | -          |
+185|SUDOWOODO    |ROCK             |  70| 100| 115|  30|  65|  30|Pies Rápidos|Gélido      |
+186|POLITOED     |WATER            |  90|  75|  75|  90| 100|  70|Ojocompuesto| -          |Roca del Rey (rare)
+187|HOPPIP       |GRASS/FLYING     |  35|  35|  40|  35|  55|  50|Cuerpo Llama|Resquicio   |
+188|SKIPLOOM     |GRASS/FLYING     |  55|  45|  50|  45|  65|  80|Corte Fuerte|Lodo Líquido|
+189|JUMPLUFF     |GRASS/FLYING     |  75|  55|  70|  55|  85| 110|Cromolente  |Iluminación |
+190|AIPOM        |NORMAL           |  55|  70|  55|  40|  55|  85|Viscosidad  |Torrente    |
+191|SUNKERN      |GRASS            |  30|  30|  30|  30|  30|  30|Sincronía   | -          |Baya Kouba (rare)
+192|SUNFLORA     |GRASS            |  75|  75|  55| 105|  85|  30|Torrente    | -          |
+193|YANMA        |BUG/FLYING       |  65|  65|  45|  75|  45|  95|Rivalidad   | -          |Lupa (rare)
+194|WOOPER       |WATER/GROUND     |  55|  45|  45|  25|  25|  15|Cuerpo Llama| -          |
+195|QUAGSIRE     |WATER/GROUND     |  95|  85|  85|  65|  65|  35|Experto     |Espesura    |
+196|ESPEON       |PSYCHIC          |  65|  65|  60| 130|  95| 110|Ignorante   | -          |
+197|UMBREON      |DARK             |  95|  65| 110|  60| 130|  65|Bucle Aire  |Descarga    |
+198|MURKROW      |DARK/FLYING      |  60|  85|  42|  85|  42|  91|Ritmo Propio|Nevada      |
+199|SLOWKING     |WATER/PSYCHIC    |  95|  75|  80| 100| 110|  30|Viscosidad  | -          |Roca del Rey (rare)
+200|MISDREAVUS   |GHOST            |  60|  60|  60|  85|  85|  85|Chorro Arena|Menos       |
+201|UNOWN        |PSYCHIC          |  48|  72|  48|  72|  48|  48|Foco Interno| -          |
+202|WOBBUFFET    |PSYCHIC          | 190|  33|  58|  33|  58|  33|Filtro      |Clorofila   |
+203|GIRAFARIG    |NORMAL/PSYCHIC   |  70|  80|  65|  90|  65|  85|Cura Lluvia |Nevada      |Baya Caquic (rare)
+204|PINECO       |BUG              |  50|  65|  90|  35|  35|  15|Pararrayos  |Lodo Líquido|
+205|FORRETRESS   |BUG/STEEL        |  75|  90| 140|  60|  60|  40|Puño Férreo |Impasible   |
+206|DUNSPARCE    |NORMAL           | 100|  70|  70|  65|  65|  45|Cura Natural|Muro Mágico |
+207|GLIGAR       |GROUND/FLYING    |  65|  75| 105|  35|  65|  85|Filtro      | -          |
+208|STEELIX      |STEEL/GROUND     |  75|  85| 200|  55|  65|  30|Tumbos      | -          |Rev.metálico (rare)
+209|SNUBBULL     |NORMAL           |  60|  80|  50|  40|  40|  30|Intrépido   | -          |
+210|GRANBULL     |NORMAL           |  90| 120|  75|  60|  60|  45|Liviano     | -          |
+211|QWILFISH     |WATER/POISON     |  65|  95|  75|  55|  55|  85|Inmunidad   | -          |Flecha Ven. (rare)
+212|SCIZOR       |BUG/STEEL        |  70| 130| 100|  55|  80|  65|Sebo        |Audaz       |
+213|SHUCKLE      |BUG/ROCK         |  20|  10| 230|  10| 230|   5|Mudar       | -          |Baya Aranja (100%)
+214|HERACROSS    |BUG/FIGHTING     |  80| 125|  75|  40|  95|  85|Antídoto    |Escama Esp. |
+215|SNEASEL      |DARK/ICE         |  55|  95|  55|  35|  75| 115|Fuga        |Despiste    |Garra Garfio (common), Garra Rápida (rare)
+216|TEDDIURSA    |NORMAL           |  60|  80|  50|  50|  50|  40|Adaptable   |Presión     |
+217|URSARING     |NORMAL           |  90| 130|  75|  75|  75|  55|Anticipación| -          |
+218|SLUGMA       |FIRE             |  40|  40|  40|  70|  40|  20|Encadenado  |Espesura    |
+219|MAGCARGO     |FIRE/ROCK        |  50|  50| 120|  80|  80|  30|Gélido      | -          |
+220|SWINUB       |ICE/GROUND       |  50|  50|  40|  30|  30|  50|Cuerpo Llama| -          |
+221|PILOSWINE    |ICE/GROUND       | 100| 100|  80|  60|  60|  50|Llovizna    |Recogida    |
+222|CORSOLA      |WATER/ROCK       |  55|  55|  85|  65|  85|  35|Mudar       | -          |Piedra Dura (rare)
+223|REMORAID     |WATER            |  35|  65|  35|  65|  35|  65|Ojocompuesto| -          |
+224|OCTILLERY    |WATER            |  75| 105|  75| 105|  75|  45|Potencia    |Hidratación |
+225|DELIBIRD     |ICE/FLYING       |  45|  55|  45|  65|  45|  75|Espesura    | -          |
+226|MANTINE      |WATER/FLYING     |  65|  40|  70|  80| 140|  70|Recogida    |Roca Sólida |
+227|SKARMORY     |STEEL/FLYING     |  65|  80| 140|  40|  70|  70|Irascible   | -          |
+228|HOUNDOUR     |DARK/FIRE        |  45|  60|  30|  80|  50|  65|Ausente     |Recogemiel  |
+229|HOUNDOOM     |DARK/FIRE        |  75|  90|  50| 110|  80|  95|Normalidad  | -          |
+230|KINGDRA      |WATER/DRAGON     |  75|  95|  95|  95|  95|  85|Chorro Arena| -          |Escamadragón (rare)
+231|PHANPY       |GROUND           |  90|  60|  60|  40|  40|  40|Irascible   | -          |Baya Pasio (rare)
+232|DONPHAN      |GROUND           |  90| 120| 120|  60|  60|  50|Absor. Elec.|Espesura    |Baya Pasio (rare)
+233|PORYGON2     |NORMAL           |  85|  80|  90| 105|  95|  60|Mar Llamas  | -          |
+234|STANTLER     |NORMAL           |  73|  95|  62|  85|  65|  85|Polvo Escudo| -          |
+235|SMEARGLE     |NORMAL           |  55|  20|  35|  20|  45|  75|Gran Encanto| -          |
+236|TYROGUE      |FIGHTING         |  35|  35|  35|  35|  35|  35|Torrente    | -          |
+237|HITMONTOP    |FIGHTING         |  50|  95|  95|  35| 110|  70|Armad. Bat. | -          |
+238|SMOOCHUM     |ICE/PSYCHIC      |  45|  30|  15|  85|  65|  65|Levitación  |Viscosidad  |Baya Perasi (100%)
+239|ELEKID       |ELECTRIC         |  45|  63|  37|  65|  55|  95|Menos       | -          |Electrizador (rare)
+240|MAGBY        |FIRE             |  45|  75|  37|  70|  55|  83|Inicio Lento|Piel Tosca  |Magmatizador (rare)
+241|MILTANK      |NORMAL           |  95|  80| 105|  40|  70| 100|Encadenado  | -          |Leche Mu-mu (100%)
+242|BLISSEY      |NORMAL           | 255|  10|  10|  75| 135|  55|Poder Solar | -          |Piedra Oval (common), Huevo Suerte (rare)
+243|RAIKOU       |ELECTRIC         |  90|  85|  75| 115| 100| 115|Elec. Estát.|Flexibilidad|
+244|ENTEI        |FIRE             | 115| 115|  85|  90|  75| 100|Antídoto    | -          |
+245|SUICUNE      |WATER            | 100|  75| 115|  90| 115|  85|Ventosas    |Mudar       |
+246|LARVITAR     |ROCK/GROUND      |  50|  64|  50|  45|  50|  41|Potencia    | -          |
+247|PUPITAR      |ROCK/GROUND      |  70|  84|  70|  65|  70|  51|Potencia    | -          |
+248|TYRANITAR    |ROCK/DARK        | 100| 134| 110|  95| 100|  61|Rivalidad   | -          |
+249|LUGIA        |PSYCHIC/FLYING   | 106|  90| 130|  90| 154| 110|Aclimatación|Nado Rápido |
+250|HO-OH        |FIRE/FLYING      | 106| 130|  90| 110| 154|  90|Nado Rápido |Electromotor|Cen. Sagrada (100%)
+251|CELEBI       |PSYCHIC/GRASS    | 100| 100| 100| 100| 100| 100|Agallas     |Gélido      |Baya Ziuela (100%)
+252|TREECKO      |GRASS            |  40|  45|  35|  65|  55|  70|Absor. Agua | -          |
+253|GROVYLE      |GRASS            |  50|  65|  45|  85|  65|  95|Sebo        | -          |
+254|SCEPTILE     |GRASS            |  70|  85|  65| 105|  85| 120|Efec. Espora| -          |
+255|TORCHIC      |FIRE             |  45|  60|  40|  70|  50|  45|Efec. Espora|Llovizna    |
+256|COMBUSKEN    |FIRE/FIGHTING    |  60|  85|  60|  85|  60|  55|Recogida    | -          |
+257|BLAZIKEN     |FIRE/FIGHTING    |  80| 120|  70| 110|  70|  80|Inmunidad   |Sebo        |
+258|MUDKIP       |WATER            |  50|  70|  50|  50|  50|  40|Hedor       |Gélido      |
+259|MARSHTOMP    |WATER/GROUND     |  70|  85|  70|  60|  70|  50|Efec. Espora|Humo Blanco |
+260|SWAMPERT     |WATER/GROUND     | 100| 110|  90|  85|  90|  60|Audaz       |Espír. Vital|
+261|POOCHYENA    |DARK             |  35|  55|  35|  30|  30|  35|Espesura    | -          |Baya Meloc (rare)
+262|MIGHTYENA    |DARK             |  70|  90|  70|  60|  60|  70|Absor. Agua |Ausente     |Baya Meloc (rare)
+263|ZIGZAGOON    |NORMAL           |  38|  30|  41|  30|  41|  60|Absor. Elec.| -          |Baya Aranja (rare)
+264|LINOONE      |NORMAL           |  78|  70|  61|  50|  61| 100|Defensa Hoja|Rivalidad   |Baya Aranja (common), Baya Zidra (rare)
+265|WURMPLE      |BUG              |  45|  45|  35|  20|  30|  20|Insonorizar | -          |
+266|SILCOON      |BUG              |  50|  35|  55|  25|  25|  15|Piel Seca   | -          |
+267|BEAUTIFLY    |BUG/FLYING       |  60|  70|  50|  90|  50|  65|Vista Lince |Dicha       |Muda Concha (rare)
+268|CASCOON      |BUG              |  50|  35|  55|  25|  25|  15|Inicio Lento|Llovizna    |
+269|DUSTOX       |BUG/POISON       |  60|  50|  70|  50|  90|  65|Cuerpo Puro |Robustez    |Muda Concha (rare)
+270|LOTAD        |WATER/GRASS      |  40|  30|  30|  40|  50|  30|Simple      |Gran Encanto|
+271|LOMBRE       |WATER/GRASS      |  60|  50|  50|  60|  70|  50|Cuerpo Llama|Roca Sólida |
+272|LUDICOLO     |WATER/GRASS      |  80|  70|  70|  90| 100|  70|Nado Rápido |Inicio Lento|
+273|SEEDOT       |GRASS            |  40|  40|  50|  30|  30|  30|Chorro Arena| -          |
+274|NUZLEAF      |GRASS/DARK       |  70|  70|  40|  60|  40|  60|Rezagado    |Poder Solar |
+275|SHIFTRY      |GRASS/DARK       |  90| 100|  60|  90|  60|  80|Trampa Arena| -          |
+276|TAILLOW      |NORMAL/FLYING    |  40|  55|  30|  30|  30|  85|Absor. Elec.| -          |Baya Alcho (rare)
+277|SWELLOW      |NORMAL/FLYING    |  60|  85|  60|  50|  50| 125|Sebo        | -          |Baya Alcho (rare)
+278|WINGULL      |WATER/FLYING     |  40|  30|  30|  55|  30|  85|Intrépido   | -          |
+279|PELIPPER     |WATER/FLYING     |  60|  50| 100|  85|  70|  65|Efec. Espora|Imán        |
+280|RALTS        |PSYCHIC          |  28|  25|  25|  45|  35|  40|Entusiasmo  |Piel Seca   |
+281|KIRLIA       |PSYCHIC          |  38|  35|  35|  65|  55|  50|Ausente     |Rompemoldes |
+282|GARDEVOIR    |PSYCHIC          |  68|  65|  65| 125| 115|  80|Muro Mágico |Cacheo      |
+283|SURSKIT      |BUG/WATER        |  40|  30|  32|  50|  52|  65|Intrépido   |Recogemiel  |
+284|MASQUERAIN   |BUG/FLYING       |  70|  60|  62|  80|  82|  60|Encadenado  |Cabeza Roca |Polvo Plata (rare)
+285|SHROOMISH    |GRASS            |  60|  40|  60|  40|  60|  35|Absor. Elec.|Cambio Color|Baya Kebia (rare)
+286|BRELOOM      |GRASS/FIGHTING   |  60| 130|  80|  60|  60|  70|Impasible   | -          |Baya Kebia (rare)
+287|SLAKOTH      |NORMAL           |  60|  60|  60|  35|  35|  30|Iluminación | -          |
+288|VIGOROTH     |NORMAL           |  80|  80|  80|  55|  55|  90|Poder Solar |Corte Fuerte|
+289|SLAKING      |NORMAL           | 150| 160| 100|  95|  65| 100|Presión     |Normalidad  |
+290|NINCADA      |BUG/GROUND       |  31|  45|  90|  30|  30|  40|Gélido      | -          |
+291|NINJASK      |BUG/FLYING       |  61|  90|  45|  50|  50| 160|Rivalidad   |Absor. Elec.|
+292|SHEDINJA     |BUG/GHOST        |   1|  90|  45|  30|  30|  40|Superguarda | -          |
+293|WHISMUR      |NORMAL           |  64|  51|  23|  51|  23|  28|Cacheo      | -          |Baya Atania (rare)
+294|LOUDRED      |NORMAL           |  84|  71|  43|  71|  43|  48|Intrépido   | -          |Baya Atania (rare)
+295|EXPLOUD      |NORMAL           | 104|  91|  63|  91|  63|  68|Cuerpo Puro |Piel Tosca  |Baya Atania (rare)
+296|MAKUHITA     |FIGHTING         |  72|  60|  30|  20|  30|  25|Velo Arena  | -          |
+297|HARIYAMA     |FIGHTING         | 144| 120|  60|  40|  60|  50|Adaptable   |Roca Sólida |Roca del Rey (rare)
+298|AZURILL      |NORMAL           |  50|  20|  40|  20|  40|  20|Inicio Lento| -          |
+299|NOSEPASS     |ROCK             |  30|  45| 135|  45|  90|  30|Irascible   |Sincronía   |Piedra Dura (rare)
+300|SKITTY       |NORMAL           |  50|  45|  45|  35|  35|  50|Pies Rápidos|Irascible   |Baya Zanama (rare)
+301|DELCATTY     |NORMAL           |  70|  65|  65|  55|  55|  70|Tumbos      |Mudar       |Baya Zanama (rare)
+302|SABLEYE      |DARK/GHOST       |  50|  75|  75|  65|  65|  50|Mal Sueño   |Nado Rápido |
+303|MAWILE       |STEEL            |  50|  85|  85|  55|  55|  50|Aclimatación|Dicha       |Baya Caoca (rare)
+304|ARON         |STEEL/ROCK       |  50|  70| 100|  40|  40|  30|Velo Arena  | -          |Piedra Dura (rare)
+305|LAIRON       |STEEL/ROCK       |  60|  90| 140|  50|  50|  40|Clorofila   |Robustez    |Piedra Dura (rare)
+306|AGGRON       |STEEL/ROCK       |  70| 110| 180|  60|  60|  50|Sebo        | -          |Piedra Dura (rare)
+307|MEDITITE     |FIGHTING/PSYCHIC |  30|  40|  55|  40|  55|  60|Madrugar    | -          |
+308|MEDICHAM     |FIGHTING/PSYCHIC |  60|  60|  75|  60|  75|  80|Humo Blanco | -          |
+309|ELECTRIKE    |ELECTRIC         |  40|  45|  40|  65|  40|  65|Audaz       | -          |
+310|MANECTRIC    |ELECTRIC         |  70|  75|  60| 105|  60| 105|Enjambre    | -          |
+311|PLUSLE       |ELECTRIC         |  60|  50|  40|  85|  75|  95|Chorro Arena| -          |
+312|MINUN        |ELECTRIC         |  60|  40|  50|  75|  85|  95|Ojocompuesto| -          |
+313|VOLBEAT      |BUG              |  65|  73|  55|  47|  75|  85|Impulso     | -          |
+314|ILLUMISE     |BUG              |  65|  47|  55|  73|  75|  85|Ventosas    |Chorro Arena|
+315|ROSELIA      |GRASS/POISON     |  50|  60|  45| 100|  80|  65|Caparazón   | -          |Flecha Ven. (rare)
+316|GULPIN       |POISON           |  70|  43|  53|  43|  53|  40|Recogemiel  |Mal Sueño   |Perla Grande (rare)
+317|SWALOT       |POISON           | 100|  73|  83|  73|  83|  55|Cambio Color|Insomnio    |Perla Grande (rare)
+318|CARVANHA     |WATER/DARK       |  45|  90|  20|  65|  20|  65|Sombratrampa|Bucle Aire  |Diente Mar. (rare)
+319|SHARPEDO     |WATER/DARK       |  70| 120|  40|  95|  40|  95|Ojocompuesto| -          |Diente Mar. (rare)
+320|WAILMER      |WATER            | 130|  70|  35|  70|  35|  60|Piel Tosca  |Cuerpo Llama|
+321|WAILORD      |WATER            | 170|  90|  45|  90|  45|  60|Inmunidad   |Encadenado  |
+322|NUMEL        |FIRE/GROUND      |  60|  60|  40|  65|  45|  35|Entusiasmo  |Alerta      |Baya Safre (100%)
+323|CAMERUPT     |FIRE/GROUND      |  70| 100|  70| 105|  75|  40|Filtro      |Ventosas    |Baya Safre (100%)
+324|TORKOAL      |FIRE             |  70|  85| 140|  85|  70|  20|Espesura    |Despiste    |
+325|SPOINK       |PSYCHIC          |  60|  25|  35|  70|  80|  60|Foco Interno| -          |Baya Yecana (rare)
+326|GRUMPIG      |PSYCHIC          |  80|  45|  65|  90| 110|  80|Cura Natural|Experto     |Baya Yecana (rare)
+327|SPINDA       |NORMAL           |  60|  60|  60|  60|  60|  60|Efec. Espora| -          |Baya Atania (rare)
+328|TRAPINCH     |GROUND           |  45| 100|  45|  45|  45|  10|Levitación  |Sequía      |Arena Fina (rare)
+329|VIBRAVA      |GROUND/DRAGON    |  50|  70|  50|  50|  50|  70|Espesura    |Foco Interno|
+330|FLYGON       |GROUND/DRAGON    |  80| 100|  80|  80|  80| 100|Adaptable   |Irascible   |
+331|CACNEA       |GRASS            |  50|  85|  40|  85|  40|  35|Cambio Color| -          |Toxiestrella (rare)
+332|CACTURNE     |GRASS/DARK       |  70| 115|  60| 115|  60|  55|Velo Arena  | -          |Toxiestrella (rare)
+333|SWABLU       |NORMAL/FLYING    |  45|  40|  60|  40|  75|  50|Piel Seca   |Rivalidad   |
+334|ALTARIA      |DRAGON/FLYING    |  75|  70|  90|  70| 105|  80|Muro Mágico | -          |
+335|ZANGOOSE     |NORMAL           |  73| 115|  60|  60|  60|  90|Madrugar    |Torrente    |Garra Rápida (rare)
+336|SEVIPER      |POISON           |  73| 100|  60| 100|  60|  65|Audaz       | -          |
+337|LUNATONE     |ROCK/PSYCHIC     |  70|  55|  65|  95|  85|  70|Dicha       | -          |Piedra Lunar (rare)
+338|SOLROCK      |ROCK/PSYCHIC     |  70|  95|  85|  55|  65|  70|Adaptable   |Cabeza Roca |Piedra Solar (rare)
+339|BARBOACH     |WATER/GROUND     |  50|  48|  43|  46|  41|  60|Agallas     |Imán        |
+340|WHISCASH     |WATER/GROUND     | 110|  78|  73|  76|  71|  60|Mar Llamas  | -          |
+341|CORPHISH     |WATER            |  43|  80|  65|  50|  35|  35|Antídoto    | -          |
+342|CRAWDAUNT    |WATER/DARK       |  63| 120|  85|  90|  55|  55|Torrente    | -          |
+343|BALTOY       |GROUND/PSYCHIC   |  40|  40|  55|  40|  70|  55|Llovizna    | -          |
+344|CLAYDOL      |GROUND/PSYCHIC   |  60|  70| 105|  70| 120|  75|Cabeza Roca |Electromotor|
+345|LILEEP       |ROCK/GRASS       |  66|  41|  77|  61|  87|  23|Mar Llamas  | -          |Raíz Grande (rare)
+346|CRADILY      |ROCK/GRASS       |  86|  81|  97|  81| 107|  43|Robustez    |Sincronía   |Raíz Grande (rare)
+347|ANORITH      |ROCK/BUG         |  45|  95|  50|  40|  50|  75|Elec. Estát.|Intimidación|
+348|ARMALDO      |ROCK/BUG         |  75| 125| 100|  70|  80|  45|Afortunado  | -          |
+349|FEEBAS       |WATER            |  20|  15|  20|  10|  55|  80|Ventosas    |Insomnio    |
+350|MILOTIC      |WATER            |  95|  60|  79| 100| 125|  81|Ignífugo    | -          |
+351|CASTFORM     |NORMAL           |  70|  70|  70|  70|  70|  70|Roca Sólida | -          |Agua Mística (100%)
+352|KECLEON      |NORMAL           |  60|  90|  70|  60| 120|  40|Levitación  |Gula        |Baya Caquic (rare)
+353|SHUPPET      |GHOST            |  44|  75|  35|  63|  33|  45|Sequía      |Afortunado  |Hechizo (rare)
+354|BANETTE      |GHOST            |  64| 115|  65|  83|  63|  65|Indefenso   | -          |Hechizo (rare)
+355|DUSKULL      |GHOST            |  20|  40|  90|  30|  90|  25|Absor. Agua | -          |Baya Drasi (rare)
+356|DUSCLOPS     |GHOST            |  40|  70| 130|  60| 130|  25|Robustez    | -          |Baya Drasi (rare)
+357|TROPIUS      |GRASS/FLYING     |  99|  68|  83|  72|  87|  51|Más         | -          |
+358|CHIMECHO     |PSYCHIC          |  65|  50|  70|  95|  80|  65|Velo Agua   | -          |Baya Dillo (rare)
+359|ABSOL        |DARK             |  65| 130|  60|  75|  60|  75|Mal Sueño   |Sequía      |
+360|WYNAUT       |PSYCHIC          |  95|  23|  48|  23|  48|  23|Vista Lince | -          |
+361|SNORUNT      |ICE              |  50|  50|  50|  50|  50|  50|Escama Esp. |Nevada      |Baya Baribá (rare)
+362|GLALIE       |ICE              |  80|  80|  80|  80|  80|  80|Antídoto    | -          |Baya Baribá (rare)
+363|SPHEAL       |ICE/WATER        |  70|  40|  50|  55|  50|  25|Francotirad.| -          |
+364|SEALEO       |ICE/WATER        |  90|  60|  70|  75|  70|  45|Gélido      | -          |
+365|WALREIN      |ICE/WATER        | 110|  80|  90|  95|  90|  65|Absor. Elec.|Liviano     |
+366|CLAMPERL     |WATER            |  35|  64|  85|  74|  55|  32|Pararrayos  | -          |Perla Grande (rare)
+367|HUNTAIL      |WATER            |  55| 104| 105|  94|  75|  52|Intimidación|Viscosidad  |Diente Mar. (rare)
+368|GOREBYSS     |WATER            |  55|  84| 105| 114|  75|  52|Filtro      |Recogemiel  |Escama Mar. (rare)
+369|RELICANTH    |WATER/ROCK       | 100|  90| 130|  45|  65|  55|Intrépido   | -          |Escama Mar. (rare)
+370|LUVDISC      |WATER            |  43|  30|  55|  40|  65|  97|Mal Sueño   | -          |Esc. Corazón (common)
+371|BAGON        |DRAGON           |  45|  75|  60|  40|  30|  50|Bucle Aire  |Intrépido   |Colmillodrag (rare)
+372|SHELGON      |DRAGON           |  65|  95| 100|  60|  50|  50|Muro Mágico |Encadenado  |Colmillodrag (rare)
+373|SALAMENCE    |DRAGON/FLYING    |  95| 135|  80| 110|  80| 100|Levitación  | -          |Colmillodrag (rare)
+374|BELDUM       |STEEL/PSYCHIC    |  40|  55|  80|  35|  60|  30|Trampa Arena|Llovizna    |Rev.metálico (rare)
+375|METANG       |STEEL/PSYCHIC    |  60|  75| 100|  55|  80|  50|Nado Rápido |Sombratrampa|Rev.metálico (rare)
+376|METAGROSS    |STEEL/PSYCHIC    |  80| 135| 130|  95|  90|  70|Simple      |Sincronía   |Rev.metálico (rare)
+377|REGIROCK     |ROCK             |  80| 100| 200|  50| 100|  50|Afortunado  |Potencia    |
+378|REGICE       |ICE              |  80|  50| 100| 100| 200|  50|Escama Esp. | -          |
+379|REGISTEEL    |STEEL            |  80|  75| 150|  75| 150|  50|Espír. Vital|Anticipación|
+380|LATIAS       |DRAGON/PSYCHIC   |  80|  80|  90| 110| 130| 110|Rezagado    |Puño Férreo |
+381|LATIOS       |DRAGON/PSYCHIC   |  80|  90|  80| 130| 110| 110|Ignorante   |Piel Tosca  |
+382|KYOGRE       |WATER            | 100| 100|  90| 150| 140|  90|Ausente     |Más         |
+383|GROUDON      |GROUND           | 100| 150| 140| 100|  90|  90|Anticipación|Elec. Estát.|
+384|RAYQUAZA     |DRAGON/FLYING    | 105| 150|  90| 150|  90|  95|Gélido      | -          |
+385|JIRACHI      |STEEL/PSYCHIC    | 100| 100| 100| 100| 100| 100|Piel Tosca  | -          |Tr. Estrella (100%)
+386|DEOXYS       |PSYCHIC          |  50| 150|  50| 150|  50| 150|Rezagado    | -          |
+387|TURTWIG      |GRASS            |  55|  68|  64|  45|  55|  31|Ritmo Propio|Impasible   |
+388|GROTLE       |GRASS            |  75|  89|  85|  55|  65|  36|Llovizna    | -          |
+389|TORTERRA     |GRASS/GROUND     |  95| 109| 105|  75|  85|  56|Polvo Escudo|Mudar       |
+390|CHIMCHAR     |FIRE             |  44|  58|  44|  58|  44|  61|Potencia    | -          |
+391|MONFERNO     |FIRE/FIGHTING    |  64|  78|  52|  78|  52|  81|Resquicio   | -          |
+392|INFERNAPE    |FIRE/FIGHTING    |  76| 104|  71| 104|  71| 108|Mal Sueño   |Punto Tóxico|
+393|PIPLUP       |WATER            |  53|  51|  53|  61|  56|  40|Adaptable   | -          |
+394|PRINPLUP     |WATER            |  64|  66|  68|  81|  76|  50|Dicha       | -          |
+395|EMPOLEON     |WATER/STEEL      |  84|  86|  88| 111| 101|  60|Inmunidad   | -          |
+396|STARLY       |NORMAL/FLYING    |  40|  55|  30|  30|  30|  60|Ritmo Propio|Absor. Fuego|Baya Rimoya (rare)
+397|STARAVIA     |NORMAL/FLYING    |  55|  75|  50|  40|  40|  80|Dicha       | -          |Baya Rimoya (rare)
+398|STARAPTOR    |NORMAL/FLYING    |  85| 120|  70|  50|  50| 100|Armad. Bat. |Llovizna    |Baya Rimoya (rare)
+399|BIDOOF       |NORMAL           |  59|  45|  40|  35|  40|  31|Anticipación|Robustez    |
+400|BIBAREL      |NORMAL/WATER     |  79|  85|  60|  55|  60|  71|Velo Agua   |Aclimatación|Baya Aranja (common), Baya Zidra (rare)
+401|KRICKETOT    |BUG              |  37|  25|  41|  25|  41|  25|Dicha       |Chorro Arena|Metrónomo (rare)
+402|KRICKETUNE   |BUG              |  77|  85|  51|  55|  51|  65|Sebo        | -          |Metrónomo (rare)
+403|SHINX        |ELECTRIC         |  45|  65|  34|  40|  34|  45|Cabeza Roca |Entusiasmo  |
+404|LUXIO        |ELECTRIC         |  60|  85|  49|  60|  49|  60|Ignífugo    | -          |
+405|LUXRAY       |ELECTRIC         |  80| 120|  79|  95|  79|  70|Nado Rápido |Electromotor|
+406|BUDEW        |GRASS/POISON     |  40|  30|  35|  50|  70|  55|Vista Lince | -          |Flecha Ven. (rare)
+407|ROSERADE     |GRASS/POISON     |  60|  70|  55| 125| 105|  90|Chorro Arena|Ignorante   |Flecha Ven. (rare)
+408|CRANIDOS     |ROCK             |  67| 125|  40|  30|  30|  58|Enjambre    | -          |
+409|RAMPARDOS    |ROCK             |  97| 165|  60|  65|  50|  58|Foco Interno|Puño Férreo |
+410|SHIELDON     |ROCK/STEEL       |  30|  42| 118|  42|  88|  30|Absor. Agua | -          |
+411|BASTIODON    |ROCK/STEEL       |  60|  52| 168|  47| 138|  30|Rompemoldes | -          |
+412|BURMY        |BUG              |  40|  29|  45|  29|  45|  36|Llovizna    | -          |
+413|WORMADAM     |BUG/GRASS        |  60|  59|  85|  79| 105|  36|Más         |Enjambre    |Polvo Plata (rare)
+414|MOTHIM       |BUG/FLYING       |  70|  94|  50|  94|  50|  66|Energía Pura|Cura Natural|Polvo Plata (rare)
+415|COMBEE       |BUG/FLYING       |  30|  30|  42|  30|  42|  70|Irascible   |Armad. Bat. |Miel (100%)
+416|VESPIQUEN    |BUG/FLYING       |  70|  80| 102|  80| 102|  40|Nevada      |Energía Pura|Flecha Ven. (rare)
+417|PACHIRISU    |ELECTRIC         |  60|  45|  70|  45|  90|  95|Chorro Arena|Presión     |
+418|BUIZEL       |WATER            |  55|  65|  35|  60|  30|  85|Piel Tosca  |Cromolente  |Baya Gualot (rare)
+419|FLOATZEL     |WATER            |  85| 105|  55|  85|  50| 115|Sequía      |Absor. Fuego|Baya Gualot (rare)
+420|CHERUBI      |GRASS            |  45|  35|  45|  62|  53|  35|Muro Mágico | -          |Sem. Milagro (rare)
+421|CHERRIM      |GRASS            |  70|  60|  70|  87|  78|  85|Aclimatación|Rompemoldes |Sem. Milagro (rare)
+422|SHELLOS      |WATER            |  76|  48|  48|  57|  62|  34|Piel Seca   | -          |
+423|GASTRODON    |WATER/GROUND     | 111|  83|  68|  92|  82|  39|Alerta      | -          |
+424|AMBIPOM      |NORMAL           |  75| 100|  66|  60|  66| 115|Cromolente  | -          |
+425|DRIFLOON     |GHOST/FLYING     |  90|  50|  34|  60|  44|  70|Armad. Bat. | -          |
+426|DRIFBLIM     |GHOST/FLYING     | 150|  80|  44|  90|  54|  80|Inmunidad   | -          |
+427|BUNEARY      |NORMAL           |  55|  66|  44|  44|  56|  85|Gula        |Sebo        |Baya Pomaro (rare)
+428|LOPUNNY      |NORMAL           |  65|  76|  84|  54|  96| 105|Llovizna    |Rastro      |Baya Pomaro (rare)
+429|MISMAGIUS    |GHOST            |  60|  60|  60| 105| 105| 105|Alerta      | -          |
+430|HONCHKROW    |DARK/FLYING      | 100| 125|  52| 105|  52|  71|Afortunado  |Imán        |
+431|GLAMEOW      |NORMAL           |  49|  55|  42|  42|  37|  85|Roca Sólida |Entusiasmo  |Baya Zreza (rare)
+432|PURUGLY      |NORMAL           |  71|  82|  64|  64|  59| 112|Rivalidad   | -          |Baya Zreza (rare)
+433|CHINGLING    |PSYCHIC          |  45|  30|  50|  65|  50|  45|Normalidad  |Adaptable   |Baya Dillo (rare)
+434|STUNKY       |POISON/DARK      |  63|  63|  47|  41|  41|  74|Alerta      | -          |Baya Meloc (rare)
+435|SKUNTANK     |POISON/DARK      | 103|  93|  67|  71|  61|  84|Anticipación| -          |Baya Meloc (rare)
+436|BRONZOR      |STEEL/PSYCHIC    |  57|  24|  86|  24|  86|  23|Ignorante   | -          |Rev.metálico (rare)
+437|BRONZONG     |STEEL/PSYCHIC    |  67|  89| 116|  79| 116|  33|Francotirad.| -          |Rev.metálico (rare)
+438|BONSLY       |ROCK             |  50|  80|  95|  10|  45|  10|Pies Rápidos|Sombratrampa|
+439|MIME JR.     |PSYCHIC          |  20|  25|  45|  70|  90|  60|Zoquete     | -          |Baya Zanama (rare)
+440|HAPPINY      |NORMAL           | 100|   5|   5|  15|  65|  30|Caparazón   |Poder Solar |Piedra Oval (common), Puño Suerte (rare)
+441|CHATOT       |NORMAL/FLYING    |  76|  65|  45|  92|  42|  91|Roca Sólida | -          |Metrónomo (rare)
+442|SPIRITOMB    |GHOST/DARK       |  50|  92| 108|  92| 108|  35|Ignífugo    | -          |
+443|GIBLE        |DRAGON/GROUND    |  58|  70|  45|  40|  45|  42|Rivalidad   | -          |Baya Anjiro (rare)
+444|GABITE       |DRAGON/GROUND    |  68|  90|  65|  50|  55|  82|Madrugar    | -          |Baya Anjiro (rare)
+445|GARCHOMP     |DRAGON/GROUND    | 108| 130|  95|  80|  85| 102|Agallas     | -          |Baya Anjiro (rare)
+446|MUNCHLAX     |NORMAL           | 135|  85|  40|  40|  85|   5|Espír. Vital|Recogemiel  |Restos (100%)
+447|RIOLU        |FIGHTING         |  40|  70|  40|  35|  40|  60|Humedad     | -          |
+448|LUCARIO      |FIGHTING/STEEL   |  70| 110|  70| 115|  70|  90|Sincronía   |Levitación  |
+449|HIPPOPOTAS   |GROUND           |  68|  72|  78|  38|  42|  32|Cura Natural|Absor. Elec.|
+450|HIPPOWDON    |GROUND           | 108| 112| 118|  68|  72|  47|Gélido      | -          |
+451|SKORUPI      |POISON/BUG       |  40|  50|  90|  30|  55|  65|Cromolente  |Gula        |Flecha Ven. (rare)
+452|DRAPION      |POISON/DARK      |  70|  90| 110|  60|  75|  95|Armad. Bat. | -          |Flecha Ven. (rare)
+453|CROAGUNK     |POISON/FIGHTING  |  48|  61|  40|  61|  40|  50|Impasible   | -          |Lodo Negro (rare)
+454|TOXICROAK    |POISON/FIGHTING  |  83| 106|  65|  86|  65|  85|Mal Sueño   |Tumbos      |Lodo Negro (rare)
+455|CARNIVINE    |GRASS            |  74| 100|  72|  90|  72|  46|Iluminación |Gran Encanto|
+456|FINNEON      |WATER            |  49|  49|  56|  49|  61|  66|Encadenado  |Potencia    |Baya Tamar (rare)
+457|LUMINEON     |WATER            |  69|  69|  76|  69|  86|  91|Pararrayos  |Imán        |Baya Tamar (rare)
+458|MANTYKE      |WATER/FLYING     |  45|  20|  50|  60| 120|  50|Ritmo Propio| -          |
+459|SNOVER       |GRASS/ICE        |  60|  62|  50|  62|  60|  40|Intimidación|Menos       |Antiderretir (rare)
+460|ABOMASNOW    |GRASS/ICE        |  90|  92|  75|  92|  85|  60|Impasible   | -          |Antiderretir (rare)
+461|WEAVILE      |DARK/ICE         |  70| 120|  65|  45|  85| 125|Velo Arena  | -          |Garra Garfio (common), Garra Rápida (rare)
+462|MAGNEZONE    |ELECTRIC/STEEL   |  70|  70| 115| 130|  90|  60|Armad. Bat. |Ojocompuesto|Rev.metálico (rare)
+463|LICKILICKY   |NORMAL           | 110|  85|  95|  80|  95|  50|Cuerpo Llama| -          |Cola Plúmbea (rare)
+464|RHYPERIOR    |GROUND/ROCK      | 115| 140| 130|  55|  55|  40|Punto Tóxico|Poder Solar |
+465|TANGROWTH    |GRASS            | 100| 100| 125| 110|  50|  50|Torrente    | -          |
+466|ELECTIVIRE   |ELECTRIC         |  75| 123|  67|  95|  85|  95|Pararrayos  | -          |Electrizador (rare)
+467|MAGMORTAR    |FIRE             |  75|  95|  67| 125|  95|  83|Recogemiel  | -          |Magmatizador (rare)
+468|TOGEKISS     |NORMAL/FLYING    |  85|  50|  95| 120| 115|  80|Elec. Estát.|Indefenso   |
+469|YANMEGA      |BUG/FLYING       |  86|  76|  86| 116|  56|  95|Filtro      |Gula        |Lupa (rare)
+470|LEAFEON      |GRASS            |  65| 110| 130|  60|  65|  95|Descarga    |Sombratrampa|
+471|GLACEON      |ICE              |  65|  60| 110| 130|  95|  65|Recogemiel  |Manto Níveo |
+472|GLISCOR      |GROUND/FLYING    |  75|  95| 125|  45|  75|  95|Defensa Hoja| -          |
+473|MAMOSWINE    |ICE/GROUND       | 110| 130|  80|  70|  60|  80|Zoquete     |Piel Tosca  |
+474|PORYGON-Z    |NORMAL           |  85|  80|  70| 135|  75|  90|Iluminación | -          |
+475|GALLADE      |PSYCHIC/FIGHTING |  68| 125|  65|  65| 115|  80|Cura Natural| -          |
+476|PROBOPASS    |ROCK/STEEL       |  60|  55| 145|  75| 150|  40|Clorofila   |Normalidad  |Piedra Dura (rare)
+477|DUSKNOIR     |GHOST            |  45| 100| 135|  65| 135|  45|Antídoto    | -          |Baya Drasi (rare)
+478|FROSLASS     |ICE/GHOST        |  70|  80|  70|  80|  70| 110|Iluminación | -          |Baya Baribá (rare)
+479|ROTOM        |ELECTRIC/GHOST   |  50|  50|  77|  95|  77|  91|Humedad     |Foco Interno|
+480|UXIE         |PSYCHIC          |  75|  75| 130|  75| 130|  95|Gran Encanto| -          |
+481|MESPRIT      |PSYCHIC          |  80| 105| 105| 105| 105|  80|Dicha       | -          |
+482|AZELF        |PSYCHIC          |  75| 125|  70| 125|  70| 115|Defensa Hoja|Trampa Arena|
+483|DIALGA       |STEEL/DRAGON     | 100| 120| 120| 150| 100|  90|Poder Solar |Viscosidad  |
+484|PALKIA       |WATER/DRAGON     |  90| 120| 100| 150| 120| 100|Velo Arena  | -          |
+485|HEATRAN      |FIRE/STEEL       |  91|  90| 106| 130| 106|  77|Cuerpo Llama|Piel Seca   |
+486|REGIGIGAS    |NORMAL           | 110| 160| 110|  80| 110| 100|Insomnio    |Indefenso   |
+487|GIRATINA     |GHOST/DRAGON     | 150| 100| 120| 100| 120|  90|Velo Agua   | -          |
+488|CRESSELIA    |PSYCHIC          | 120|  70| 120|  75| 130|  85|Roca Sólida |Llovizna    |
+489|PHIONE       |WATER            |  80|  80|  80|  80|  80|  80|Puño Férreo | -          |
+490|MANAPHY      |WATER            | 100| 100| 100| 100| 100| 100|Francotirad.|Puño Férreo |
+491|DARKRAI      |DARK             |  70|  90|  90| 135|  90| 125|Ojocompuesto|Menos       |
+492|SHAYMIN      |GRASS            | 100| 100| 100| 100| 100| 100|Lodo Líquido| -          |Baya Ziuela (100%)
+493|ARCEUS       |NORMAL           | 120| 120| 120| 120| 120| 120|Sequía      |Cuerpo Puro |
+494|DEOXYS-A     |PSYCHIC          |  50| 180|  20| 180|  20| 150|Ausente     | -          |
+495|DEOXYS-D     |PSYCHIC          |  50|  70| 160|  70| 160|  90|Manto Níveo | -          |
+496|DEOXYS-S     |PSYCHIC          |  50|  95|  90|  95|  90| 180|Sincronía   | -          |
+497|WORMADAM-S   |BUG/GROUND       |  60|  79| 105|  59|  85|  36|Clorofila   |Gélido      |Polvo Plata (rare)
+498|WORMADAM-T   |BUG/STEEL        |  60|  69|  95|  69|  95|  36|Anticipación|Rastro      |Polvo Plata (rare)
+499|GIRATINA-O   |GHOST/DRAGON     | 150| 120| 100| 120| 100|  90|Más         | -          |
+500|SHAYMIN-S    |GRASS/FLYING     | 100| 103|  75| 120|  75| 127|Fuga        | -          |Baya Ziuela (100%)
+501|ROTOM-H      |ELECTRIC/GHOST   |  50|  65| 107| 105| 107|  86|Enjambre    |Potencia    |
+502|ROTOM-W      |ELECTRIC/GHOST   |  50|  65| 107| 105| 107|  86|Hedor       |Rastro      |
+503|ROTOM-Fr     |ELECTRIC/GHOST   |  50|  65| 107| 105| 107|  86|Entusiasmo  | -          |
+504|ROTOM-Fa     |ELECTRIC/GHOST   |  50|  65| 107| 105| 107|  86|Escama Esp. |Roca Sólida |
+505|ROTOM-M      |ELECTRIC/GHOST   |  50|  65| 107| 105| 107|  86|Recogida    |Agallas     |
+
+Move Data: Unchanged.
+
+Pokemon Movesets: Unchanged.
+
+TM Moves: Unchanged.
+
+Move Tutor Moves: Unchanged.
+
+Trainers: Unchanged.
+
+Static Pokemon: Unchanged.
+
+Wild Pokemon: Unchanged.
+
+------------------------------------------------------------------
+Randomization of Pokemon Platinum (S) completed.
+Time elapsed: 304ms
+RNG Calls: 1290
+------------------------------------------------------------------
+
+--ROM Diagnostics--
+The ROM you loaded is not a clean, official ROM.
+Randomizing ROM hacks or bad ROM dumps is not supported and may cause issues.
+
+File name: PokemonPlatino.nds
+arm9: 0AEE958E
+overlay9_16: 1BBB41F1
+overlay9_5: C4A31B48
+overlay9_6: 0E93E266
+overlay9_73: 0F84AAEE
+overlay9_78: 07F2C593
+application/zukanlist/zkn_data/zukan_enc_platinum.narc: 2F58506E
+arc/encdata_ex.narc: 03FB3F28
+battle/skill/sub_seq.narc: B02FF213
+fielddata/encountdata/pl_enc_data.narc: 188084F5
+fielddata/eventdata/zone_event.narc: D8BB2D84
+fielddata/maptable/mapname.bin: 530174B6
+fielddata/script/scr_seq.narc: D81D0712
+itemtool/itemdata/pl_item_data.narc: 6C977C8F
+msgdata/pl_msg.narc: EC46E5D6
+poketool/personal/evo.narc: 6711E4B4
+poketool/personal/pl_personal.narc: B16A8A01
+poketool/personal/pms.narc: C457991B
+poketool/personal/wotbl.narc: 977997B9
+poketool/pokegra/pl_pokegra.narc: 03BBC013
+poketool/trainer/trdata.narc: 2EE9B886
+poketool/trainer/trpoke.narc: 739A02EE
+poketool/waza/pl_waza_tbl.narc: B2D18230
+resource/spa/pokemon_trade/fld_trade.narc: B0A25B9D
